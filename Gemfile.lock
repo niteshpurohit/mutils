@@ -35,7 +35,7 @@ GEM
     pre-commit (0.39.0)
       pluginator (~> 1.5)
     rainbow (3.0.0)
-    rake (13.0.3)
+    rake (13.0.6)
     regexp_parser (2.1.1)
     rexml (3.2.5)
     rspec (3.10.0)
